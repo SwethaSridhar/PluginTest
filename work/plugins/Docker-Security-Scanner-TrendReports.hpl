@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: Docker-Security-Scanner-TrendReports
+Long-Name: Docker Security Scanner Trend Reports
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-05/12/2017 12:26-514740)
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Developers: 
+Libraries: D:\Documents\Plugin_and _Utility\Jenkins_Plugin\Repo\Docker
+  Security Scanner Trend Reports\src\main\resources,D:\Documents\Plugi
+ n_and _Utility\Jenkins_Plugin\Repo\Docker Security Scanner Trend Repo
+ rts\target\classes
+Resource-Path: D:\Documents\Plugin_and _Utility\Jenkins_Plugin\Repo\Do
+ cker Security Scanner Trend Reports\src\main\webapp
+

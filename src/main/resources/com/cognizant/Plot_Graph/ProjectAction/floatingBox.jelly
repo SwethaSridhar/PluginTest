@@ -1,0 +1,14 @@
+<j:jelly xmlns:j="jelly:core">
+    <div class="test-trend-caption">
+    ${%}
+  <div class="test-trend-caption">
+              ${%Docker Security Severity Trend}
+            </div>
+            <div>
+                <img src="${from.urlName}/trend" lazymap="${from.urlName}/trendMap"/>
+            </div>
+            <div>
+                <img src="${from.urlName}/trendDelta" lazymap="${from.urlName}/trendDeltaMap"/>
+            </div>
+        </div>
+</j:jelly>
